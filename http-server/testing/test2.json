@@ -1,0 +1,6 @@
+{
+    "GET" : {
+        "url" : "http://localhost:7677/image.jpeg",
+        "max_client" : 5
+    }
+}
