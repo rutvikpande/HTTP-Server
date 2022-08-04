@@ -1,8 +1,5 @@
 # http-server
 
-Name:Rutvik Pande  MIS No:111903076  Batch:T5  Division:1
-Name:Sagar Patil  MIS No:111903077  Batch:T5  Division:1
-
 HTTP Server in Python
 
 METHODS Implemented:
